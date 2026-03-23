@@ -3,6 +3,9 @@
 ## Overview
 A scalable multi-vendor e-commerce platform designed to simulate real-world workflows with integrated predictive analytics.
 
+## Architecture
+Basic modular system with API layer, services, and database
+
 ## Features
 - Role-based access (Admin, Artisan, User)
 - Product & Order Management APIs
